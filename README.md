@@ -6,10 +6,8 @@
   
 ## [@CNZW Studio](https://cnzw-wtw.github.io/)  
 ## [Our Minecraft Server](https://cnzw-wtw.github.io/MC/server/rule)  
-<details>
-  <summary>About Me</summary>
-  [![GitHub](https://cnzw-wtw.github.io/img/icon/github.png)](https://github.com/CNZW-WTW/)  
-  [![Bilibili](https://cnzw-wtw.github.io/img/icon/bilibili.png)](https://space.bilibili.com/3493132140284888/)  
-  [![X](https://cnzw-wtw.github.io/img/icon/twitter.png)](https://twitter.com/CNZW_WTW/)  
-  [![E-mail](https://cnzw-wtw.github.io/img/icon/email.png)](mailto:cnzw-wtw@qq.com)  
-</details>
+###About Me###
+[![GitHub](https://cnzw-wtw.github.io/img/icon/github.png)](https://github.com/CNZW-WTW/)  
+[![Bilibili](https://cnzw-wtw.github.io/img/icon/bilibili.png)](https://space.bilibili.com/3493132140284888/)  
+[![X](https://cnzw-wtw.github.io/img/icon/twitter.png)](https://twitter.com/CNZW_WTW/)  
+[![E-mail](https://cnzw-wtw.github.io/img/icon/email.png)](mailto:cnzw-wtw@qq.com)  
