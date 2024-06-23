@@ -4,14 +4,4 @@
   <img alt="github-snake" src="https://ghproxy.com/https://raw.githubusercontent.com/schlibra/schlibra/output/github-contribution-grid-snake.svg" />
 </picture>
   
-## [@CNZW Studio](https://cnzw-wtw.github.io/)  
-## [My Minecraft Server](https://cnzw-wtw.github.io/MC/server/rule)  
-# About Me
-### GitHub
-[![GitHub](https://cnzw-wtw.github.io/img/icon/github.png)](https://github.com/CNZW-WTW/)  
-### Bilibili
-[![Bilibili](https://cnzw-wtw.github.io/img/icon/bilibili.png)](https://space.bilibili.com/3493132140284888/)  
-### X
-[![X](https://cnzw-wtw.github.io/img/icon/twitter.png)](https://twitter.com/CNZW_WTW/)  
-### E-mail
-[![E-mail](https://cnzw-wtw.github.io/img/icon/email.png)](mailto:cnzw-wtw@qq.com)  
+## [My Website](https://cnzw-wtw.github.io/)  
